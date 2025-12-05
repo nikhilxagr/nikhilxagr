@@ -33,7 +33,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nikhilxagr&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true" alt="" height="200"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=nikhilxagr&theme=nightowl&hide_border=true" alt="GitHub Streak" height="170"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=nikhilxagr&theme=nightowl&hide_border=true" alt="GitHub Streak" width="999" height="200"/>
 </div>
 
 <div align="center">
