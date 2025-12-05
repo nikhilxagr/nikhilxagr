@@ -8,6 +8,25 @@
 
 </div>
 
+
+## 🌐 Connect with Me:
+
+<p align="center">
+  <a href="https://linkedin.com/in/nikhilxagr" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/codewith.nikhil" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://leetcode.com/u/nikhilxagr/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/nikhilxagr" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+  </a>
+</p>
+
+
 ## 📊 GitHub Statistics:
 
 ---
@@ -43,23 +62,6 @@
 - ⚡ Fun fact: **I debug with console.log() and I'm proud of it!  😄**
 
 ---
-
-## 🌐 Connect with Me:
-
-<p align="center">
-  <a href="https://linkedin.com/in/nikhilxagr" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://instagram.com/codewith.nikhil" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://leetcode.com/u/nikhilxagr/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-  </a>
-  <a href="https://www.geeksforgeeks.org/profile/nikhilxagr" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
-  </a>
-</p>
 
 ---
 
