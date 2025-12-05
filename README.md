@@ -32,12 +32,12 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikhilxagr&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nikhilxagr&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true" alt="" height="200"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=nikhilxagr&theme=nightowl&hide_border=true" alt="GitHub Streak" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilxagr&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilxagr&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt=""/>
 </div>
 
 
@@ -57,13 +57,9 @@
 - 🌱 I'm currently learning **Advanced React & CyberSecurity**
 - 💡 I love solving problems on **LeetCode** and **GeeksforGeeks**
 - 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Web Development, Python, DSA, React**
 - 📫 How to reach me: **nikhilagrahari530@gmail.com**
 - ⚡ Fun fact: **I debug with console.log() and I'm proud of it!  😄**
 
----
-
----
 
 ## 💻 Tech Stack:
 
