@@ -1,204 +1,129 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
 </div>
 
 <div align="center">
-  
-# Hi, I'm Nikhil Agrahari! 👋
 
+# Hi, I'm Nikhil Agrahari! 👋
 
 ### 🚀 Full Stack Developer | Competitive Programmer | Cyber Security Enthusiast
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Web+Developer;Always+Learning+New+Things;Problem+Solver+%7C+Code+Enthusiast)](https://git.io/typing-svg)
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Web+Developer;MERN+Stack+Developer;Cybersecurity+Enthusiast;Always+Learning+%26+Building)](https://git.io/typing-svg)
 
 </div>
 
-## 🌐 Connect with Me:
+---
+
+## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/nikhilxagr" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://instagram.com/codewith.nikhil" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://leetcode.com/u/nikhilxagr/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-  </a>
-  <a href="https://www.geeksforgeeks.org/profile/nikhilxagr" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
-  </a>
+  <a href="https://linkedin.com/in/nikhilxagr"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/nikhilxagr"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://instagram.com/codewith.nikhil"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://leetcode.com/u/nikhilxagr/"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://www.geeksforgeeks.org/profile/nikhilxagr"><img src="https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
+  <a href="mailto:nikhilagrahari530@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-<br>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📊 GitHub Statistics:
+// ...existing code...
+## 📊 GitHub Statistics
 
 <div align="center">
-  
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=nikhilxagr&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="200"/>
-      </td>
-      <td>
-        <img src="https://nirzak-streak-stats.vercel.app/?user=nikhilxagr&theme=nightowl&hide_border=true" alt="GitHub Streak" height="200"/>
-      </td>
-    </tr>
-  </table>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilxagr&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="500"/>
-
+  <img src="https://nirzak-streak-stats.vercel.app/?user=nikhilxagr&theme=nightowl&hide_border=true" height="180" alt="GitHub Streak"/>
 </div>
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📊 Contribution Graph:
-
 <div align="center">
-  
-[![Nikhil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nikhilxagr&theme=react-dark&hide_border=true)](https://github.com/nikhilxagr)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhilxagr&bg_color=011627&color=7fdbca&line=c792ea&point=ffeb95&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
-## 📈 Coding Profile Stats:
+## 📈 Coding Profile Stats
 
 <div align="center">
   
-### 💻 LeetCode Statistics
-[![LeetCode Stats](https://leetcard.jacoblin.cool/nikhilxagr?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/u/nikhilxagr/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/nikhilxagr?theme=dark&ext=heatmap)](https://leetcode.com/u/nikhilxagr/)
 
-### 🎯 GeeksforGeeks Profile
+<br/>
+
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Visit%20Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/nikhilxagr)
 
 </div>
 
-<br>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## 💻 Tech Stack
 
-## 🙋‍♂️ About Me
+### 🧠 Programming Languages
 
-<div align="left">
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
 
+### 🎨 Frontend Development
 
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+</p>
 
-### 👨‍💻 Who I Am
+### ⚙️ Backend Development
 
-I'm a **passionate Full Stack Developer** with a strong foundation in building scalable web applications and solving complex algorithmic problems. I combine creativity with technical expertise to deliver robust solutions that make a difference.
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black" alt="EJS"/>
+</p>
 
+### 🗄️ Databases & Cloud
 
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Cloudflare"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
+</p>
 
-### 🤝 Let's Connect!
+### 📜 Scripting Languages
 
-I'm always excited to collaborate on:
-- 🌟 **Open Source Projects** - Contributing to meaningful projects
-- 💼 **Freelance Opportunities** - Building custom solutions
-- 🎓 **Learning Together** - Sharing knowledge and growing as developers
+<p align="center">
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
+</p>
 
-### 📬 Reach Out
+### 🛠️ Tools & DevOps
 
-- 📧 Email: **nikhilagrahari530@gmail.com**
-- 💼 LinkedIn: **[@nikhilxagr](https://linkedin.com/in/nikhilxagr)**
-- 📱 Instagram: **[@codewith.nikhil](https://instagram.com/codewith.nikhil)**
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+</p>
 
-</div>
+### 🎨 Design Tools
 
-<br clear="both">
+<p align="center">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
+</p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 💻 Tech Stack:
-
-<details open>
-<summary><b>🎨 Frontend Development</b></summary>
-<br>
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>💾 Programming Languages</b></summary>
-<br>
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-</details>
-
-<details open>
-<summary><b>📜 Scripting Languages</b></summary>
-<br>
-
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>⚙️ Backend Technologies</b></summary>
-<br>
-
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black)
-
-</details>
-
-<details open>
-<summary><b>🗄️ Database</b></summary>
-<br>
-
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>☁️ Cloud & Hosting</b></summary>
-<br>
-
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🛠️ Tools & Technologies</b></summary>
-<br>
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</details>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## 🔐 Cybersecurity & Penetration Testing
 
@@ -216,34 +141,42 @@ I'm always excited to collaborate on:
 <summary><b>🛡️ Security Tools & Frameworks</b></summary>
 <br>
 
-| Category | Tools |
-|----------|-------|
-| 🌐 **Network Analysis** | Nmap, Wireshark, Netcat |
-| 🔍 **Web Security** | Burp Suite, OWASP ZAP, Nikto |
-| 💥 **Exploitation** | Metasploit Framework, SQLmap |
-| 🔑 **Password Cracking** | John the Ripper, Hashcat, Hydra |
-| 📡 **Wireless Security** | Aircrack-ng, Kismet |
+| Category                  | Tools                            |
+| ------------------------- | -------------------------------- |
+| 🌐 **Network Analysis**   | Nmap, Wireshark, Netcat          |
+| 🔍 **Web Security**       | Burp Suite, OWASP ZAP, Nikto     |
+| 💥 **Exploitation**       | Metasploit Framework, SQLmap     |
+| 🔑 **Password Cracking**  | John the Ripper, Hashcat, Hydra  |
+| 📡 **Wireless Security**  | Aircrack-ng, Kismet              |
 | 🎭 **Social Engineering** | SET (Social Engineering Toolkit) |
 
 </details>
 
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🏆 GitHub Trophies:
+---
 
 <div align="center">
-  
-![](https://github-profile-trophy.vercel.app/?username=nikhilxagr&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4&row=2&column=3)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=nikhilxagr&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
 </div>
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilxagr&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180" alt="Top Languages"/>
+</div>
 
-## ✍️ Random Dev Quote:
+---
+
+## 🔝 Top Contributed Repositories
+
+<div align="center">
+  
+![](https://github-contributor-stats.vercel.app/api?username=nikhilxagr&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+</div>
+
+---
+
+## ✍️ Random Dev Quote
 
 <div align="center">
 
@@ -251,49 +184,59 @@ I'm always excited to collaborate on:
 
 </div>
 
-<br>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+## 🙋‍♂️ About Me
 
-## 🔝 Top Contributed Repositories:
+<div align="left">
 
-<div align="center">
+### 👨‍💻 Who I Am
 
-![](https://github-contributor-stats.vercel.app/api?username=nikhilxagr&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
+I'm a **passionate Full Stack Developer** with expertise in the MERN stack and a strong interest in cybersecurity. I love building scalable web applications and exploring security vulnerabilities to create more secure systems.
 
-</div>
+### 🎯 What I Do
 
-<br>
+- 💻 Build full-stack web applications using MERN stack
+- 🔐 Practice ethical hacking and penetration testing
+- 🚀 Solve algorithmic problems on competitive programming platforms
+- 🌱 Continuously learning new technologies and frameworks
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+### 🤝 Let's Collaborate!
 
-## 📫 Let's Collaborate! 
+I'm always excited to work on:
 
-<div align="center">
+- 🌟 **Open Source Projects** - Contributing to the community
+- 💼 **Freelance Opportunities** - Building innovative solutions
+- 🎓 **Learning Together** - Knowledge sharing and collaboration
 
-```diff
-+ I'm always interested in working on exciting projects
-+ and connecting with fellow developers.
-+ Feel free to reach out if you want to collaborate on something awesome! 🚀
-```
+### 📬 Reach Out
 
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-  
-### 👀 Profile Views:
-[![](https://visitcount.itsvg.in/api?id=nikhilxagr&icon=2&color=6)](https://visitcount.itsvg.in)
-
-### ⭐ Show some love by starring some repositories!
-
-**💙 Thank you for visiting my profile!**
+- 📧 Email: **nikhilagrahari530@gmail.com**
+- 💼 LinkedIn: **[@nikhilxagr](https://linkedin.com/in/nikhilxagr)**
+- 📱 Instagram: **[@codewith.nikhil](https://instagram.com/codewith.nikhil)**
 
 </div>
 
+---
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+### 👀 Profile Views
+
+[![](https://visitcount.itsvg.in/api?id=nikhilxagr&icon=0&color=0)](https://visitcount.itsvg.in)
+
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<div align="center">
+
+### ⭐ If you like my work, don't forget to star some repositories!
+
+**💙 Thanks for visiting my profile!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
 </div>
