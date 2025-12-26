@@ -27,7 +27,6 @@
 
 ---
 
-// ...existing code...
 ## 📊 GitHub Statistics
 
 <div align="center">
