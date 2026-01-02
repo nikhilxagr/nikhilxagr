@@ -153,12 +153,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikhilxagr&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
-</div>
-
----
-
 ## 🔝 Top Contributed Repositories
 
 <div align="center">
@@ -172,7 +166,7 @@
 ## 💻Most Used Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilxagr&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilxagr&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180" />
 </div>
 
 ---
