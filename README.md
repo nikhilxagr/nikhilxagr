@@ -219,10 +219,6 @@ I'm always excited to work on:
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-<div align="center">
 
 ### ⭐ If you like my work, don't forget to star some repositories!
 
