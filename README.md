@@ -27,21 +27,6 @@
 
 ---
 
-## 🛡️ Cybersecurity Profiles
-
-  
-
-<p align="center">
-  <a href="https://tryhackme.com/p/nikhilxagr">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/nikhilxagr.png" />
-  </a>
-</p>
-
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/nikhilxagr)
-
-
----
-
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -59,10 +44,21 @@
 
 ---
 
+
+## 🛡️ Cybersecurity Profiles
+
+<p align="center">
+  <a href="https://tryhackme.com/p/nikhilxagr">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/nikhilxagr.png" />
+  </a>
+</p>
+
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/nikhilxagr)
+
 ## 📈 Coding Profile Stats
 
 <div align="center">
-  
+
 [![LeetCode Stats](https://leetcard.jacoblin.cool/nikhilxagr?theme=dark&ext=heatmap)](https://leetcode.com/u/nikhilxagr/)
 
 <br/>
