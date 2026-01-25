@@ -23,18 +23,22 @@
   <a href="https://leetcode.com/u/nikhilxagr/"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/></a>
   <a href="https://www.geeksforgeeks.org/profile/nikhilxagr"><img src="https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
   <a href="mailto:nikhilagrahari530@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/nikhilxagr)
 </p>
 
 ---
 
 ## 🛡️ Cybersecurity Profiles
 
+  
+
 <p align="center">
   <a href="https://tryhackme.com/p/nikhilxagr">
     <img src="https://tryhackme-badges.s3.amazonaws.com/nikhilxagr.png" />
   </a>
 </p>
+
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/nikhilxagr)
+
 
 ---
 
