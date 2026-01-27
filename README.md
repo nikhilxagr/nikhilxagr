@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-
+  
 # Hi, I'm Nikhil Agrahari! 👋
 
 ### 🚀 Full Stack Developer | Competitive Programmer | Cyber Security Enthusiast
@@ -17,6 +17,7 @@
 ## 🌐 Connect with Me
 
 <p align="center">
+  <a href="https://nikhilxagr.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://linkedin.com/in/nikhilxagr"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/nikhilxagr"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://instagram.com/codewith.nikhil"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
