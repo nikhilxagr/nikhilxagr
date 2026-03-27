@@ -31,7 +31,7 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=nikhilxagr&theme=Nightowl&hide_border=false"/>
+<img src="https://streak-stats.demolab.com?user=nikhilxagr&theme=Nightowl&hide_border=false"alt="GitHub Streak"/></a>
 </div>
 
 ---
