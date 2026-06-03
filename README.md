@@ -1,10 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
+  <img src="https://readme-img.onrender.com/api/banner?username=nikhilxagr&template=creative2&bg=dark&font=poppins" alt="GitHub banner" width="100%" />
 </div>
 
 <div align="center">
-  
-# Hi, I'm Nikhil Agrahari! 👋
 
 ### 🚀 Full Stack Developer | Competitive Programmer | Cyber Security Enthusiast
 
